@@ -8,6 +8,22 @@
         "urlProd": "https://douglasleal.github.io/site-pessoal-estudo/"
     },
     {
+        "title": "Portfolio V1",
+        "description": "Portfolio criado para apresentar projetos",
+        "image": "https://raw.githubusercontent.com/DouglasLeal/dados-portfolio/main/img/portfolio-v1.png",
+        "category": ["HTML", "CSS", "JS"],
+        "urlGit": "https://github.com/DouglasLeal/portfolio-v1",
+        "urlProd": "https://douglasleal.github.io/portfolio-v1/"
+    },
+    {
+        "title": "Portfolio V2",
+        "description": "Segunda versão do portfolio utilizando Angular.",
+        "image": "https://raw.githubusercontent.com/DouglasLeal/dados-portfolio/main/img/portfolio-v2.png",
+        "category": ["Angular"],
+        "urlGit": "https://github.com/DouglasLeal/portfolio-v2",
+        "urlProd": "https://douglasleal-portfolio.netlify.app/"
+    },
+    {
         "title": "Gama Academy - Desafio 1",
         "description": "Criação de site para empresa fictícia de educação financeira seguindo layout do figma entregue pelo designer.",
         "image": "https://raw.githubusercontent.com/DouglasLeal/dados-portfolio/main/img/gama-desafio1.png",
