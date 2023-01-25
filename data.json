@@ -62,5 +62,13 @@
         "category": ["JavaScript"],
         "urlGit": "https://github.com/DouglasLeal/mini-trello",
         "urlProd": "https://douglasleal.github.io/mini-trello/"
+    },
+    {
+        "title": "MyNotes",
+        "description": "Aplicação para gerenciamento de notas.",
+        "image": "https://raw.githubusercontent.com/DouglasLeal/dados-portfolio/main/img/notas.png",
+        "category": ["Node.js", "Express.js", "EJS", "SQLite"],
+        "urlGit": "https://github.com/DouglasLeal/mynotes",
+        "urlProd": ""
     }
 ]
