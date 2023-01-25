@@ -11,7 +11,7 @@
         "title": "Portfolio V1",
         "description": "Portfolio criado para apresentar projetos",
         "image": "https://raw.githubusercontent.com/DouglasLeal/dados-portfolio/main/img/portfolio-v1.png",
-        "category": ["HTML", "CSS", "JS"],
+        "category": ["HTML", "CSS", "JavaScript"],
         "urlGit": "https://github.com/DouglasLeal/portfolio-v1",
         "urlProd": "https://douglasleal.github.io/portfolio-v1/"
     },
@@ -35,7 +35,7 @@
         "title": "Gama Academy - Desafio 2",
         "description": "Criação de site com conteúdo dinâmico e consumo de API.",
         "image": "https://raw.githubusercontent.com/DouglasLeal/dados-portfolio/main/img/gama-desafio2.png",
-        "category": ["Javascript"],
+        "category": ["JavaScript"],
         "urlGit": "https://github.com/DouglasLeal/gamaxp-desafio2",
         "urlProd": "https://douglasleal.github.io/gamaxp-desafio2/"
     },
