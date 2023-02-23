@@ -86,5 +86,13 @@
         "category": ["Node.js", "Express.js", "EJS", "SQLite"],
         "urlGit": "https://github.com/DouglasLeal/mynotes",
         "urlProd": ""
+    },
+    {
+        "title": "Task&Note",
+        "description": "Aplicação para gerenciamento de tarefas e notas.",
+        "image": "https://raw.githubusercontent.com/DouglasLeal/dados-portfolio/main/img/task-note.png",
+        "category": ["C#", ".NET", "EF"],
+        "urlGit": "https://github.com/DouglasLeal/task-and-note",
+        "urlProd": ""
     }
 ]
